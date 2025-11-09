@@ -9,3 +9,5 @@ These binaries were compiled with -march=native -mtune=native on the specified m
 - Kaggle-gpu.T4x2
 - Kaggle-no.accelerator
 
+kaldi-models-x.yy.tar.xz is a backup of the kaldi models gentle uses, just in
+case something happens to the server they are usually downloaded from.
